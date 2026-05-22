@@ -115,6 +115,12 @@ The screenshots below document the main application screens and MongoDB collecti
 - OpenAI SDK
 - Helmet, CORS, Morgan
 
+## System Architecture
+
+SmartStore AI uses a React and Vite frontend connected to an Express REST API. Protected dashboard pages call authenticated backend routes, while the backend coordinates JWT middleware, MongoDB/Mongoose models, analytics controllers, and OpenAI-powered AI routes.
+
+![SmartStore AI System Architecture](docs/screenshots/system-architecture.png)
+
 ## Project Structure
 
 ```text
