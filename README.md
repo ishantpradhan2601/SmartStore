@@ -101,7 +101,6 @@ The screenshots below document the main application screens and MongoDB collecti
 - Tailwind CSS 4
 - React Router
 - Axios
-- Chart.js and React Chart.js 2
 - React Icons
 
 ### Backend
@@ -113,7 +112,7 @@ The screenshots below document the main application screens and MongoDB collecti
 - JWT
 - bcryptjs
 - OpenAI SDK
-- Helmet, CORS, Morgan
+
 
 ## System Architecture
 
