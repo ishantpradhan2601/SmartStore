@@ -47,34 +47,39 @@ The screenshots below document the main application screens and MongoDB collecti
 | MongoDB Products | `products` collection with seeded catalog items and AI-generated copy fields. |
 | MongoDB Sales | `sales` collection with 75 seeded transaction ledger documents. |
 
-Recommended README image paths:
+### Dashboard
 
-```text
-docs/screenshots/dashboard.png
-docs/screenshots/products.png
-docs/screenshots/ai-generator.png
-docs/screenshots/analytics-weekly.png
-docs/screenshots/analytics-daily.png
-docs/screenshots/ai-suggestions.png
-docs/screenshots/inventory-alerts.png
-docs/screenshots/db-users.png
-docs/screenshots/db-products.png
-docs/screenshots/db-sales.png
-```
-
-Example Markdown once screenshots are added:
-
-```md
 ![Dashboard](docs/screenshots/dashboard.png)
+
+### Product Catalog
+
 ![Product Catalog](docs/screenshots/products.png)
+
+### AI Generator
+
 ![AI Generator](docs/screenshots/ai-generator.png)
-![Analytics](docs/screenshots/analytics-weekly.png)
+
+### Analytics
+
+![Analytics Weekly](docs/screenshots/analytics-weekly.png)
+
+![Analytics Daily](docs/screenshots/analytics-daily.png)
+
+### AI Suggestions
+
 ![AI Suggestions](docs/screenshots/ai-suggestions.png)
+
+### Inventory Alerts
+
 ![Inventory Alerts](docs/screenshots/inventory-alerts.png)
+
+### MongoDB Collections
+
 ![MongoDB Users Collection](docs/screenshots/db-users.png)
+
 ![MongoDB Products Collection](docs/screenshots/db-products.png)
+
 ![MongoDB Sales Collection](docs/screenshots/db-sales.png)
-```
 
 ## Features
 
