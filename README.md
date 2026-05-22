@@ -441,17 +441,6 @@ Environment variable:
 VITE_API_URL=https://your-render-api-url.onrender.com/api
 ```
 
-## GitHub Submission Checklist
-
-- [x] Repository has at least 7 commits.
-- [x] Backend and frontend code are separated clearly.
-- [x] README includes project overview.
-- [x] README includes setup instructions.
-- [x] README includes database schema.
-- [x] README includes API route documentation.
-- [x] README includes screenshot and video sections.
-- [x] README includes deployment instructions.
-- [x] Demo credentials are documented.
 
 ## Author
 
