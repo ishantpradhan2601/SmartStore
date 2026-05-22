@@ -18,7 +18,7 @@ The application includes a React dashboard, an Express API, MongoDB persistence,
 Add your project walkthrough video link here after uploading it to YouTube, Google Drive, or GitHub Releases:
 
 ```text
-Demo video: https://your-demo-video-link
+https://drive.google.com/file/d/1_HOVFMzOI8gICsLCdOheWeAFERVMZnp1/view?usp=sharing
 ```
 
 Suggested video flow:
